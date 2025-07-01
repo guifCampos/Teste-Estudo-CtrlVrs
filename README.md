@@ -14,4 +14,3 @@
 ## 👤Participantes
 
 | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/127144065?v=4" width=115><br><sub>Guilherme Campos</sub>](https://github.com/guifCampos) |
-| :---: | :---: |
