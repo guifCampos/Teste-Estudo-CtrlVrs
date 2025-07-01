@@ -1,7 +1,7 @@
 <h1>Teste de Estudo - Git & GitHub</h1>
 
 <h2>📄Sobre</h2>
-<p>+>Este repositória é unicamente um repositório de teste, usado para fins de aprendizagem.</p>
+<p>+>Este repositório é unicamente um repositório de teste, usado para fins de aprendizagem.</p>
 <p>+>Código retirado de um curso da Alura, cujo qual é usado para ensinar lógica de programação.</p>
 
 ## 🚀Tecnologias
